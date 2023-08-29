@@ -1,6 +1,5 @@
 {
     "index":  "Home",
-    "about":"About",
     "---": {
       "type": "separator"
     },
