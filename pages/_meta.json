@@ -1,5 +1,6 @@
 {
     "index":  "Home",
+    "about":"About",
     "---": {
       "type": "separator"
     },
@@ -10,9 +11,5 @@
     "opportunities":{
       "title": "Opportunities",
       "type": "page"
-    },
-    "about":{
-      "title":"About",
-      "type":"page"
     }
   }
