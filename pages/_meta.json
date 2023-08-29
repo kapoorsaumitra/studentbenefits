@@ -1,14 +1,6 @@
 {
     "index": {
-      "title": "Home",
-      "theme": {
-        "breadcrumb": false,
-        "footer": true,
-        "sidebar": true,
-        "toc": true,
-        "pagination": false
-      }
-
+      "title": "Home"
     },
     "---": {
       "type": "separator"
