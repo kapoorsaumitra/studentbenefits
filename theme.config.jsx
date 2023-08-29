@@ -3,5 +3,7 @@ export default {
     project: {
       link: 'https://github.com/kapoorsaumitra/studentbenefits'
     },
-    docsRepositoryBase:'https://github.com/kapoorsaumitra/studentbenefits/tree/main/'
+    docsRepositoryBase:'https://github.com/kapoorsaumitra/studentbenefits/tree/main/',
+    darkMode : true,
+    primaryHue: Math.round(Math.random() * 360)
   }

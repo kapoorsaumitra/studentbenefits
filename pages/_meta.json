@@ -1,13 +1,22 @@
 {
     "index": {
       "title": "Home",
+      "type":"page",
       "theme": {
         "breadcrumb": false,
         "footer": true,
-        "sidebar": false,
-        "toc": false,
+        "sidebar": true,
+        "toc": true,
         "pagination": false
-      },
-      "type":"page"
+      }
+
+    },
+    "tools":{
+      "title": "Tools",
+      "type": "page"
+    },
+    "opportunities":{
+      "title": "Opportunities",
+      "type": "page"
     }
   }
