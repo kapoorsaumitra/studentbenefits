@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "flexsearch": "^0.7.31",
     "next": "^13.4.19",
     "nextra": "latest",
     "nextra-theme-docs": "latest",

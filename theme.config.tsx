@@ -8,7 +8,8 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase:'https://github.com/kapoorsaumitra/studentbenefits/tree/main/',
   darkMode : true,
-  primaryHue: Math.round(Math.random() * 360)
+  primaryHue: Math.round(Math.random() * 360),
+  faviconGlyph:"📝",
 }
 
 export default config
