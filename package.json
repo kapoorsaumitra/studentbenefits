@@ -10,7 +10,9 @@
     "dev": "next dev",
     "start": "next start",
     "build": "next build"
-    
+  },
+  "devDependencies": {
+    "@types/node": "18.11.10",
+    "typescript": "4.9.5"
   }
-  
 }
