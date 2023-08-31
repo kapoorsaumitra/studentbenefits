@@ -10,5 +10,9 @@
     "opportunities":{
       "title": "Opportunities",
       "type": "page"
+    },
+    "resources":{
+      "title":"Resources",
+      "type":"page"
     }
   }
