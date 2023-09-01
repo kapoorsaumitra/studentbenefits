@@ -10,6 +10,9 @@ const config: DocsThemeConfig = {
   darkMode : true,
   primaryHue: Math.round(Math.random() * 360),
   faviconGlyph:"📝",
+  search:{
+    placeholder:"Search"
+  }
 }
 
 export default config
