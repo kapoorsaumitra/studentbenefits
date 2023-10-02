@@ -14,5 +14,9 @@
     "resources":{
       "title":"Resources",
       "type":"page"
+    },
+    "hackathons":{
+      "title":"Hackathons",
+      "type":"page"
     }
   }
