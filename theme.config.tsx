@@ -12,6 +12,11 @@ const config: DocsThemeConfig = {
   faviconGlyph:"📝",
   search:{
     placeholder:"Search"
+  },
+  useNextSeoProps() {
+    return {
+      titleTemplate: '%s – Student Benefits'
+    }
   }
 }
 
